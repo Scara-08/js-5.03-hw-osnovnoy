@@ -1,0 +1,47 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: orange;
+
+}
+
+
+#name {
+    padding: 7px;
+    font-size: 18px;
+}
+
+#search {
+    display: flex;
+    margin: auto;
+    padding: 10px;
+    margin-top: 50px;
+    border-radius: 10px;
+    font-size: 1rem;
+}
+
+#peoples{
+    text-align: center;
+    margin: 50px;
+    font-size: 50px;
+}
+
+.block{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 20px;
+    width: 250px;
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    align-items: center;
+    font-size: 18px;
+}
+
+
+#result{
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-between;
+}
+
+
